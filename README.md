@@ -1,5 +1,5 @@
 <html>
-    <head>FLEASTAND</head>
+    <head><strong>FLEASTAND</strong></head>
     <title></title>
 <body>
 <p>Let's get our code on!!!</p>
